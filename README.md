@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Pedrophom&show_icons=true&rank_icon=github&theme=default#gh-light-mode-only)](https://github.com/Pedrophom/github-readme-stats#gh-light-mode-only)
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedrophom&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-#
+
  <div> 
   <a href="https://www.instagram.com/pedromoura148/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
